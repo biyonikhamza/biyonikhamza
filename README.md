@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Güleç</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
-<img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" align="right" width="400" height="250">
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning : **Kotlin**
 
 - 📫 How to reach me : **hamza.runner@hotmail.com**
 
