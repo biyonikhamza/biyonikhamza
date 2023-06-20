@@ -1,7 +1,7 @@
 [![MasterHead]([https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif)](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Hamza Güleç</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
-<img align="Right" alt="Coding" width"400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+<img align="right" alt="coding" width="400" height="250" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
 
 - 🌱 I’m currently learning **Kotlin**
 
